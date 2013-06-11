@@ -1,7 +1,7 @@
 sprockets
 =========
 
-A Simple SharePoint UX Machine
+A Simple SharePoint UX Framework
 
 ---------
 <b>Description</b>
